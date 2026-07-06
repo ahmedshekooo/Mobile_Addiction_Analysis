@@ -1,3 +1,4 @@
+<!-- <i class="fa-solid fa-mobile"></i> -->
 # Mobile Addiction Analysis 📱📊
 
 An interactive data analysis web application built with Streamlit that explores, visualizes, and analyzes mobile screen time patterns, usage habits, and indicators of smartphone dependency or digital fatigue. 
